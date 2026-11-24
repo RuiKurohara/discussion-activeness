@@ -1,0 +1,10 @@
+==== P3_01: The speaking order is mutual, but B and C only express agreement or acknowledgment ====
+topic: How should we design an energy policy that balances stable energy supply with the realization of a decarbonized society?
+opening_hint: expanding offshore wind and solar capacity
+
+[m=1] Alice: I suggest implementing a community-based renewable energy cooperative model supported by blockchain technology to enable transparent energy trading and local grid balancing. This will empower local stakeholders and enhance grid resilience while promoting renewable energy adoption.
+[m=2] Bob: I agree. Your idea sounds very promising and well thought out.
+[m=3] Carol: I agree. Your idea sounds very good to me.
+[m=4] Alice: To enhance energy storage, I propose deploying large-scale flow battery systems in coastal regions to complement offshore wind farms. This technology offers long-duration storage and can stabilize the grid during peak demand periods.
+[m=5] Bob: I agree. That sounds like a very effective approach.
+[m=6] Carol: I agree. That approach seems very effective.

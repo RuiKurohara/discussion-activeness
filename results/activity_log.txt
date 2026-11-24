@@ -1,0 +1,1200 @@
+
+==== P1_01: One participant posts throughout; the content is abstract and lacks specificity ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  1.97 | 0.000 |    1 |   1.00 |   1.97 |   1.97
+      c=1.00 ν=1.00 c·ν=1.00  「Taking action on energy policy is crucia」
+      c=0.98 ν=1.00 c·ν=0.98  「It is important to recognize the challen」
+ 2*| Alice    |   0 |  1.05 | 0.000 |    2 |   1.00 |   3.03 |   3.03
+      c=1.00 ν=1.00 c·ν=1.00  「Designing an energy policy that balances」
+      c=0.99 ν=0.06 c·ν=0.06  「It requires careful consideration and co」
+ 3*| Alice    |   0 |  1.11 | 0.000 |    3 |   1.00 |   4.13 |   4.13
+      c=0.99 ν=0.97 c·ν=0.96  「Continuous efforts and adaptability are 」
+      c=1.00 ν=0.14 c·ν=0.14  「It is important to remain open to change」
+ 4*| Alice    |   0 |  0.20 | 0.000 |    4 |   1.00 |   4.34 |   4.34
+      c=1.00 ν=0.04 c·ν=0.04  「Balancing various priorities is key to d」
+      c=1.00 ν=0.17 c·ν=0.17  「It requires ongoing dialogue and thought」
+ 5*| Alice    |   0 |  1.73 | 0.000 |    5 |   1.00 |   6.07 |   6.07
+      c=0.99 ν=0.74 c·ν=0.73  「Considering long-term impacts is essenti」
+      c=1.00 ν=1.00 c·ν=1.00  「It helps ensure that decisions made toda」
+ 6*| Alice    |   0 |  0.61 | 0.000 |    6 |   1.00 |   6.67 |   6.67
+      c=0.99 ν=0.04 c·ν=0.04  「Cooperation and shared responsibility ar」
+      c=1.00 ν=0.57 c·ν=0.56  「Working together helps address challenge」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=1.00  λ3=6.67  λ4=6.67   (* = post merged into the previous one by consecutive-post compression)
+
+==== P1_02: One participant posts throughout; the content is abstract and lacks specificity ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  1.99 | 0.000 |    1 |   1.00 |   1.99 |   1.99
+      c=1.00 ν=1.00 c·ν=1.00  「Designing an energy policy that balances」
+      c=1.00 ν=1.00 c·ν=1.00  「It requires careful thought to ensure th」
+ 2*| Alice    |   0 |  1.97 | 0.000 |    2 |   1.00 |   3.96 |   3.96
+      c=0.99 ν=0.99 c·ν=0.98  「Energy policy must carefully balance var」
+      c=0.99 ν=1.00 c·ν=0.99  「It is a difficult task that requires ong」
+ 3*| Alice    |   0 |  1.04 | 0.000 |    3 |   1.00 |   5.01 |   5.01
+      c=0.99 ν=0.97 c·ν=0.97  「Balancing energy policy priorities is a 」
+      c=1.00 ν=0.07 c·ν=0.07  「It is important to recognize that this c」
+ 4*| Alice    |   0 |  1.62 | 0.000 |    4 |   1.00 |   6.63 |   6.63
+      c=0.99 ν=0.64 c·ν=0.64  「Energy policy must be adaptable and resi」
+      c=0.99 ν=1.00 c·ν=0.99  「This flexibility is essential for mainta」
+ 5*| Alice    |   0 |  1.88 | 0.000 |    5 |   1.00 |   8.51 |   8.51
+      c=0.98 ν=0.95 c·ν=0.93  「Effective energy policy depends on colla」
+      c=1.00 ν=0.95 c·ν=0.95  「This collective effort is crucial for ad」
+ 6*| Alice    |   0 |  1.52 | 0.000 |    6 |   1.00 |  10.03 |  10.03
+      c=1.00 ν=0.59 c·ν=0.59  「Balancing priorities in energy policy is」
+      c=0.99 ν=0.94 c·ν=0.94  「It is essential to remain mindful of the」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=1.00  λ3=10.03  λ4=10.03   (* = post merged into the previous one by consecutive-post compression)
+
+==== P1_03: One participant posts throughout; the content is abstract and lacks specificity ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  1.99 | 0.000 |    1 |   1.00 |   1.99 |   1.99
+      c=0.99 ν=1.00 c·ν=0.99  「Long-term planning is essential for any 」
+      c=0.99 ν=1.00 c·ν=0.99  「It requires a balanced approach that con」
+ 2*| Alice    |   0 |  1.02 | 0.000 |    2 |   1.00 |   3.01 |   3.01
+      c=1.00 ν=1.00 c·ν=1.00  「Balancing a stable energy supply with th」
+      c=1.00 ν=0.02 c·ν=0.02  「It requires thoughtful consideration to 」
+ 3*| Alice    |   0 |  1.67 | 0.000 |    3 |   1.00 |   4.67 |   4.67
+      c=1.00 ν=1.00 c·ν=0.99  「Designing an effective energy policy is 」
+      c=1.00 ν=0.67 c·ν=0.67  「It demands a careful balance between var」
+ 4*| Alice    |   0 |  0.14 | 0.000 |    4 |   1.00 |   4.81 |   4.81
+      c=0.99 ν=0.01 c·ν=0.01  「Maintaining a stable energy supply while」
+      c=1.00 ν=0.13 c·ν=0.13  「It requires ongoing effort to balance re」
+ 5*| Alice    |   0 |  0.93 | 0.000 |    5 |   1.00 |   5.74 |   5.74
+      c=0.99 ν=0.91 c·ν=0.90  「Energy policy design is inherently compl」
+      c=1.00 ν=0.02 c·ν=0.02  「Balancing different priorities is crucia」
+ 6*| Alice    |   0 |  0.05 | 0.000 |    6 |   1.00 |   5.78 |   5.78
+      c=0.99 ν=0.01 c·ν=0.01  「Achieving a balance between stable energ」
+      c=1.00 ν=0.03 c·ν=0.03  「It requires ongoing commitment to both r」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=1.00  λ3=5.78  λ4=5.78   (* = post merged into the previous one by consecutive-post compression)
+
+==== P1_04: One participant posts throughout; the content is abstract and lacks specificity ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  1.98 | 0.000 |    1 |   1.00 |   1.98 |   1.98
+      c=0.99 ν=1.00 c·ν=0.99  「Addressing the balance between stable en」
+      c=0.99 ν=1.00 c·ν=0.99  「It is important to recognize the complex」
+ 2*| Alice    |   0 |  1.06 | 0.000 |    2 |   1.00 |   3.03 |   3.03
+      c=1.00 ν=0.09 c·ν=0.09  「Designing an energy policy that balances」
+      c=0.97 ν=1.00 c·ν=0.97  「It is essential to approach this challen」
+ 3*| Alice    |   0 |  1.46 | 0.000 |    3 |   1.00 |   4.50 |   4.50
+      c=0.97 ν=0.89 c·ν=0.87  「Finding a balance between energy stabili」
+      c=0.94 ν=0.63 c·ν=0.59  「It is important to maintain a broad view」
+ 4*| Alice    |   0 |  0.05 | 0.000 |    4 |   1.00 |   4.55 |   4.55
+      c=0.99 ν=0.03 c·ν=0.03  「Balancing the need for a reliable energy」
+      c=1.00 ν=0.02 c·ν=0.02  「It is crucial to approach this challenge」
+ 5*| Alice    |   0 |  0.12 | 0.000 |    5 |   1.00 |   4.67 |   4.67
+      c=1.00 ν=0.04 c·ν=0.04  「The challenge of creating an energy poli」
+      c=0.99 ν=0.08 c·ν=0.08  「It requires a balanced approach that con」
+ 6*| Alice    |   0 |  0.04 | 0.000 |    6 |   1.00 |   4.71 |   4.71
+      c=0.99 ν=0.01 c·ν=0.01  「Addressing the balance between energy re」
+      c=0.99 ν=0.03 c·ν=0.03  「It is essential to consider various fact」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=1.00  λ3=4.71  λ4=4.71   (* = post merged into the previous one by consecutive-post compression)
+
+==== P1_05: One participant posts throughout; the content is abstract and lacks specificity ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  1.99 | 0.000 |    1 |   1.00 |   1.99 |   1.99
+      c=1.00 ν=1.00 c·ν=1.00  「Designing an energy policy that balances」
+      c=0.99 ν=1.00 c·ν=0.99  「It requires careful consideration of mul」
+ 2*| Alice    |   0 |  1.87 | 0.000 |    2 |   1.00 |   3.86 |   3.86
+      c=0.99 ν=1.00 c·ν=0.99  「Energy policy is a crucial area that dem」
+      c=0.99 ν=0.89 c·ν=0.88  「Achieving this balance is a complex task」
+ 3*| Alice    |   0 |  0.71 | 0.000 |    3 |   1.00 |   4.57 |   4.57
+      c=0.98 ν=0.50 c·ν=0.49  「Addressing energy challenges requires co」
+      c=0.99 ν=0.23 c·ν=0.23  「This process is continuous and demands f」
+ 4*| Alice    |   0 |  1.67 | 0.000 |    4 |   1.00 |   6.25 |   6.25
+      c=0.99 ν=0.99 c·ν=0.98  「Balancing different priorities in energy」
+      c=0.99 ν=0.70 c·ν=0.69  「It requires ongoing effort to navigate t」
+ 5*| Alice    |   0 |  1.23 | 0.000 |    5 |   1.00 |   7.48 |   7.48
+      c=1.00 ν=1.00 c·ν=0.99  「Considering long-term impacts is vital w」
+      c=0.99 ν=0.24 c·ν=0.24  「The complexity of these decisions requir」
+ 6*| Alice    |   0 |  1.09 | 0.000 |    6 |   1.00 |   8.57 |   8.57
+      c=1.00 ν=0.95 c·ν=0.95  「Adaptability is key in energy policy, as」
+      c=0.99 ν=0.14 c·ν=0.14  「Ongoing development and reassessment are」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=1.00  λ3=8.57  λ4=8.57   (* = post merged into the previous one by consecutive-post compression)
+
+==== P1_06: One participant posts throughout; the content is abstract and lacks specificity ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  1.98 | 0.000 |    1 |   1.00 |   1.98 |   1.98
+      c=0.99 ν=1.00 c·ν=0.99  「I believe it is essential to consider th」
+      c=0.99 ν=1.00 c·ν=0.99  「Balancing these needs is a complex but n」
+ 2*| Alice    |   0 |  1.93 | 0.000 |    2 |   1.00 |   3.91 |   3.91
+      c=0.99 ν=0.97 c·ν=0.96  「Balancing a stable energy supply with th」
+      c=0.98 ν=0.98 c·ν=0.97  「It is important to recognize the complex」
+ 3*| Alice    |   0 |  1.87 | 0.000 |    3 |   1.00 |   5.77 |   5.77
+      c=0.99 ν=0.96 c·ν=0.95  「Designing energy policies is always a co」
+      c=0.92 ν=0.99 c·ν=0.91  「It is crucial to approach this with a br」
+ 4*| Alice    |   0 |  1.20 | 0.000 |    4 |   1.00 |   6.97 |   6.97
+      c=0.99 ν=0.96 c·ν=0.96  「Energy policy is a vital area that deman」
+      c=0.99 ν=0.24 c·ν=0.24  「The challenges involved require ongoing 」
+ 5*| Alice    |   0 |  1.06 | 0.000 |    5 |   1.00 |   8.03 |   8.03
+      c=0.99 ν=0.14 c·ν=0.14  「Energy policy requires a thoughtful bala」
+      c=1.00 ν=0.92 c·ν=0.92  「The complexity of this task highlights t」
+ 6*| Alice    |   0 |  0.10 | 0.000 |    6 |   1.00 |   8.13 |   8.13
+      c=1.00 ν=0.08 c·ν=0.08  「The design of energy policy is inherentl」
+      c=0.93 ν=0.02 c·ν=0.02  「It is important to approach this with a 」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=1.00  λ3=8.13  λ4=8.13   (* = post merged into the previous one by consecutive-post compression)
+
+==== P1_07: One participant posts throughout; the content is abstract and lacks specificity ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  1.99 | 0.000 |    1 |   1.00 |   1.99 |   1.99
+      c=0.99 ν=1.00 c·ν=0.99  「Making good decisions in energy policy i」
+      c=0.99 ν=1.00 c·ν=0.99  「It is important to consider the broader 」
+ 2*| Alice    |   0 |  1.98 | 0.000 |    2 |   1.00 |   3.96 |   3.96
+      c=0.99 ν=0.99 c·ν=0.98  「Energy policy design is a complex task t」
+      c=1.00 ν=1.00 c·ν=1.00  「It is essential to balance stability and」
+ 3*| Alice    |   0 |  0.93 | 0.000 |    3 |   1.00 |   4.89 |   4.89
+      c=1.00 ν=0.09 c·ν=0.09  「The process of designing energy policy i」
+      c=1.00 ν=0.84 c·ν=0.84  「It requires a thoughtful approach to ens」
+ 4*| Alice    |   0 |  0.07 | 0.000 |    4 |   1.00 |   4.96 |   4.96
+      c=1.00 ν=0.01 c·ν=0.01  「Designing energy policy is a difficult t」
+      c=1.00 ν=0.05 c·ν=0.05  「It is crucial to approach this with care」
+ 5*| Alice    |   0 |  1.00 | 0.000 |    5 |   1.00 |   5.95 |   5.95
+      c=0.99 ν=0.94 c·ν=0.93  「Balancing stable energy supply with deca」
+      c=0.93 ν=0.07 c·ν=0.06  「It is important to approach this with a 」
+ 6*| Alice    |   0 |  0.02 | 0.000 |    6 |   1.00 |   5.97 |   5.97
+      c=1.00 ν=0.01 c·ν=0.01  「Designing energy policy involves many ch」
+      c=1.00 ν=0.01 c·ν=0.01  「It is essential to consider these carefu」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=1.00  λ3=5.97  λ4=5.97   (* = post merged into the previous one by consecutive-post compression)
+
+==== P1_08: One participant posts throughout; the content is abstract and lacks specificity ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「The challenge of creating an energy poli」
+      c=1.00 ν=1.00 c·ν=1.00  「It requires careful consideration to bal」
+ 2*| Alice    |   0 |  1.69 | 0.000 |    2 |   1.00 |   3.69 |   3.69
+      c=1.00 ν=0.93 c·ν=0.93  「Balancing a stable energy supply with th」
+      c=1.00 ν=0.76 c·ν=0.76  「It demands thoughtful approaches to navi」
+ 3*| Alice    |   0 |  0.27 | 0.000 |    3 |   1.00 |   3.96 |   3.96
+      c=1.00 ν=0.14 c·ν=0.14  「Addressing the balance between stable en」
+      c=1.00 ν=0.13 c·ν=0.13  「It involves navigating complex challenge」
+ 4*| Alice    |   0 |  0.82 | 0.000 |    4 |   1.00 |   4.78 |   4.78
+      c=1.00 ν=0.81 c·ν=0.81  「The importance of balancing a stable ene」
+      c=0.99 ν=0.01 c·ν=0.01  「It is a difficult task that requires ong」
+ 5*| Alice    |   0 |  0.11 | 0.000 |    5 |   1.00 |   4.89 |   4.89
+      c=1.00 ν=0.02 c·ν=0.02  「Ensuring a reliable energy supply while 」
+      c=1.00 ν=0.09 c·ν=0.09  「This balance presents significant challe」
+ 6*| Alice    |   0 |  0.07 | 0.000 |    6 |   1.00 |   4.96 |   4.96
+      c=1.00 ν=0.03 c·ν=0.03  「Finding the right approach to maintain e」
+      c=1.00 ν=0.03 c·ν=0.03  「This task involves navigating complex is」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=1.00  λ3=4.96  λ4=4.96   (* = post merged into the previous one by consecutive-post compression)
+
+==== P1_09: One participant posts throughout; the content is abstract and lacks specificity ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  1.98 | 0.000 |    1 |   1.00 |   1.98 |   1.98
+      c=0.99 ν=1.00 c·ν=0.99  「I believe that designing an energy polic」
+      c=0.99 ν=1.00 c·ν=0.99  「It is important to recognize the challen」
+ 2*| Alice    |   0 |  1.02 | 0.000 |    2 |   1.00 |   3.00 |   3.00
+      c=0.99 ν=0.06 c·ν=0.06  「Energy policy is a complex issue that de」
+      c=0.99 ν=0.97 c·ν=0.96  「Balancing the need for reliable energy w」
+ 3*| Alice    |   0 |  1.01 | 0.000 |    3 |   1.00 |   4.01 |   4.01
+      c=0.98 ν=0.03 c·ν=0.03  「It is clear that energy policy requires 」
+      c=0.99 ν=1.00 c·ν=0.99  「The difficulty lies in finding a balance」
+ 4*| Alice    |   0 |  0.07 | 0.000 |    4 |   1.00 |   4.08 |   4.08
+      c=0.98 ν=0.02 c·ν=0.02  「Addressing energy policy requires acknow」
+      c=0.99 ν=0.05 c·ν=0.04  「Striking a balance between reliable ener」
+ 5*| Alice    |   0 |  0.07 | 0.000 |    5 |   1.00 |   4.15 |   4.15
+      c=1.00 ν=0.05 c·ν=0.05  「Energy policy is a topic that requires c」
+      c=0.99 ν=0.02 c·ν=0.01  「Balancing the need for a stable energy s」
+ 6*| Alice    |   0 |  1.28 | 0.000 |    6 |   1.00 |   5.43 |   5.43
+      c=1.00 ν=0.43 c·ν=0.43  「The challenge of energy policy lies in a」
+      c=1.00 ν=0.86 c·ν=0.85  「It is essential to consider both the sta」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=1.00  λ3=5.43  λ4=5.43   (* = post merged into the previous one by consecutive-post compression)
+
+==== P1_10: One participant posts throughout; the content is abstract and lacks specificity ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  1.97 | 0.000 |    1 |   1.00 |   1.97 |   1.97
+      c=0.98 ν=1.00 c·ν=0.98  「I believe it is crucial to approach ener」
+      c=0.99 ν=1.00 c·ν=0.99  「Taking the time to carefully consider al」
+ 2*| Alice    |   0 |  1.95 | 0.000 |    2 |   1.00 |   3.92 |   3.92
+      c=0.99 ν=0.97 c·ν=0.96  「Designing an energy policy is always a c」
+      c=0.99 ν=1.00 c·ν=0.99  「It is important to recognize the difficu」
+ 3*| Alice    |   0 |  1.92 | 0.000 |    3 |   1.00 |   5.85 |   5.85
+      c=1.00 ν=0.98 c·ν=0.98  「Balancing energy needs with societal goa」
+      c=0.99 ν=0.96 c·ν=0.95  「It requires ongoing effort and thoughtfu」
+ 4*| Alice    |   0 |  0.97 | 0.000 |    4 |   1.00 |   6.82 |   6.82
+      c=0.99 ν=0.97 c·ν=0.96  「Thoughtful policy-making in energy is es」
+      c=0.98 ν=0.01 c·ν=0.01  「It is important to recognize the complex」
+ 5*| Alice    |   0 |  1.50 | 0.000 |    5 |   1.00 |   8.32 |   8.32
+      c=0.99 ν=0.71 c·ν=0.70  「Collaboration and patience are key eleme」
+      c=0.99 ν=0.81 c·ν=0.80  「It is important to work together and all」
+ 6*| Alice    |   0 |  1.14 | 0.000 |    6 |   1.00 |   9.46 |   9.46
+      c=0.99 ν=0.16 c·ν=0.16  「Achieving balance in energy policy requi」
+      c=1.00 ν=0.98 c·ν=0.98  「It is important to approach this challen」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=1.00  λ3=9.46  λ4=9.46   (* = post merged into the previous one by consecutive-post compression)
+
+==== P2_01: One participant posts throughout and presents a concrete, topic-relevant proposal at every turn ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「We should create a blockchain-based plat」
+      c=1.00 ν=1.00 c·ν=1.00  「This will empower public participation a」
+ 2*| Alice    |   0 |  2.00 | 0.000 |    2 |   1.00 |   3.99 |   3.99
+      c=1.00 ν=1.00 c·ν=1.00  「I think we should implement a nationwide」
+      c=1.00 ν=1.00 c·ν=1.00  「This will enable dynamic pricing and dem」
+ 3*| Alice    |   0 |  1.99 | 0.000 |    3 |   1.00 |   5.99 |   5.99
+      c=1.00 ν=1.00 c·ν=0.99  「I believe we should incentivize the deve」
+      c=1.00 ν=1.00 c·ν=1.00  「This will provide a clean fuel alternati」
+ 4*| Alice    |   0 |  1.99 | 0.000 |    4 |   1.00 |   7.97 |   7.97
+      c=1.00 ν=1.00 c·ν=1.00  「We should establish a national program t」
+      c=1.00 ν=0.99 c·ν=0.99  「This will reduce overall energy demand a」
+ 5*| Alice    |   0 |  1.89 | 0.000 |    5 |   1.00 |   9.87 |   9.87
+      c=1.00 ν=0.99 c·ν=0.98  「I suggest implementing a nationwide dema」
+      c=1.00 ν=0.91 c·ν=0.91  「This will help balance the grid and inte」
+ 6*| Alice    |   0 |  1.91 | 0.000 |    6 |   1.00 |  11.77 |  11.77
+      c=1.00 ν=1.00 c·ν=1.00  「We should develop a national microgrid i」
+      c=1.00 ν=0.91 c·ν=0.91  「This will enhance energy resilience and 」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=1.00  λ3=11.77  λ4=11.77   (* = post merged into the previous one by consecutive-post compression)
+
+==== P2_02: One participant posts throughout and presents a concrete, topic-relevant proposal at every turn ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「I believe restarting and extending nucle」
+      c=1.00 ν=1.00 c·ν=1.00  「Specifically, we should implement advanc」
+ 2*| Alice    |   0 |  2.00 | 0.000 |    2 |   1.00 |   3.99 |   3.99
+      c=1.00 ν=1.00 c·ν=1.00  「In addition to restarting nuclear power 」
+      c=1.00 ν=1.00 c·ν=1.00  「This will enhance grid stability and sup」
+ 3*| Alice    |   0 |  2.00 | 0.000 |    3 |   1.00 |   5.99 |   5.99
+      c=1.00 ν=1.00 c·ν=1.00  「To further balance stable energy supply 」
+      c=1.00 ν=1.00 c·ν=1.00  「This will help stabilize the grid by sto」
+ 4*| Alice    |   0 |  2.00 | 0.000 |    4 |   1.00 |   7.99 |   7.99
+      c=1.00 ν=1.00 c·ν=1.00  「We should also invest in green hydrogen 」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy could include grants for res」
+ 5*| Alice    |   0 |  2.00 | 0.000 |    5 |   1.00 |   9.98 |   9.98
+      c=1.00 ν=1.00 c·ν=1.00  「We should enhance energy efficiency stan」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy could mandate smart energy m」
+ 6*| Alice    |   0 |  2.00 | 0.000 |    6 |   1.00 |  11.98 |  11.98
+      c=1.00 ν=1.00 c·ν=1.00  「We should establish a national carbon pr」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy could include a cap-and-trad」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=1.00  λ3=11.98  λ4=11.98   (* = post merged into the previous one by consecutive-post compression)
+
+==== P2_03: One participant posts throughout and presents a concrete, topic-relevant proposal at every turn ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「I believe that integrating advanced grid」
+      c=1.00 ν=1.00 c·ν=1.00  「Specifically, I propose implementing a n」
+ 2*| Alice    |   0 |  2.00 | 0.000 |    2 |   1.00 |   3.99 |   3.99
+      c=1.00 ν=1.00 c·ν=1.00  「I think we should implement dynamic dema」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy would incentivize consumers 」
+ 3*| Alice    |   0 |  1.98 | 0.000 |    3 |   1.00 |   5.97 |   5.97
+      c=1.00 ν=1.00 c·ν=1.00  「I propose establishing a blockchain-base」
+      c=1.00 ν=0.98 c·ν=0.98  「This policy would allow consumers to tra」
+ 4*| Alice    |   0 |  2.00 | 0.000 |    4 |   1.00 |   7.97 |   7.97
+      c=1.00 ν=1.00 c·ν=1.00  「I suggest accelerating the development o」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy would support stable energy 」
+ 5*| Alice    |   0 |  1.99 | 0.000 |    5 |   1.00 |   9.95 |   9.95
+      c=1.00 ν=1.00 c·ν=1.00  「I propose implementing mandatory smart b」
+      c=1.00 ν=0.99 c·ν=0.99  「This policy would reduce overall energy 」
+ 6*| Alice    |   0 |  1.99 | 0.000 |    6 |   1.00 |  11.95 |  11.95
+      c=1.00 ν=1.00 c·ν=1.00  「I propose accelerating offshore wind ene」
+      c=1.00 ν=0.99 c·ν=0.99  「This policy would increase renewable cap」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=1.00  λ3=11.95  λ4=11.95   (* = post merged into the previous one by consecutive-post compression)
+
+==== P2_04: One participant posts throughout and presents a concrete, topic-relevant proposal at every turn ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「The government should subsidize energy p」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, a new policy should mandat」
+ 2*| Alice    |   0 |  2.00 | 0.000 |    2 |   1.00 |   4.00 |   4.00
+      c=1.00 ν=1.00 c·ν=1.00  「We should implement blockchain technolog」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, establishing a government-」
+ 3*| Alice    |   0 |  2.00 | 0.000 |    3 |   1.00 |   5.99 |   5.99
+      c=1.00 ν=1.00 c·ν=1.00  「Introducing time-of-use tariffs combined」
+      c=1.00 ν=1.00 c·ν=1.00  「Furthermore, implementing a national pla」
+ 4*| Alice    |   0 |  2.00 | 0.000 |    4 |   1.00 |   7.99 |   7.99
+      c=1.00 ν=1.00 c·ν=1.00  「Deploying advanced demand response progr」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, establishing a public-priv」
+ 5*| Alice    |   0 |  1.99 | 0.000 |    5 |   1.00 |   9.99 |   9.99
+      c=1.00 ν=1.00 c·ν=1.00  「Implementing a nationwide energy storage」
+      c=1.00 ν=1.00 c·ν=1.00  「Furthermore, creating a dynamic tariff s」
+ 6*| Alice    |   0 |  1.99 | 0.000 |    6 |   1.00 |  11.98 |  11.98
+      c=1.00 ν=1.00 c·ν=0.99  「We should develop a national platform th」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, implementing real-time fee」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=1.00  λ3=11.98  λ4=11.98   (* = post merged into the previous one by consecutive-post compression)
+
+==== P2_05: One participant posts throughout and presents a concrete, topic-relevant proposal at every turn ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「I believe implementing a carbon border t」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, we should introduce target」
+ 2*| Alice    |   0 |  2.00 | 0.000 |    2 |   1.00 |   3.99 |   3.99
+      c=1.00 ν=1.00 c·ν=1.00  「To further stabilize our energy supply w」
+      c=1.00 ν=1.00 c·ν=1.00  「This would optimize energy distribution 」
+ 3*| Alice    |   0 |  1.99 | 0.000 |    3 |   1.00 |   5.98 |   5.98
+      c=1.00 ν=1.00 c·ν=1.00  「I think we should introduce mandatory en」
+      c=1.00 ν=0.99 c·ν=0.99  「This policy would reduce overall energy 」
+ 4*| Alice    |   0 |  1.25 | 0.000 |    4 |   1.00 |   7.23 |   7.23
+      c=1.00 ν=1.00 c·ν=1.00  「We should establish government-backed in」
+      c=1.00 ν=0.25 c·ν=0.25  「This would enhance grid flexibility and 」
+ 5*| Alice    |   0 |  1.99 | 0.000 |    5 |   1.00 |   9.21 |   9.21
+      c=1.00 ν=1.00 c·ν=1.00  「To further industrial decarbonization, I」
+      c=1.00 ν=0.99 c·ν=0.99  「This would incentivize industries to red」
+ 6*| Alice    |   0 |  1.99 | 0.000 |    6 |   1.00 |  11.21 |  11.21
+      c=1.00 ν=1.00 c·ν=1.00  「I propose promoting decentralized renewa」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, investing in pumped hydro 」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=1.00  λ3=11.21  λ4=11.21   (* = post merged into the previous one by consecutive-post compression)
+
+==== P2_06: One participant posts throughout and presents a concrete, topic-relevant proposal at every turn ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「I propose mandating the retrofit of all 」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy should include a timeline fo」
+ 2*| Alice    |   0 |  2.00 | 0.000 |    2 |   1.00 |   4.00 |   4.00
+      c=1.00 ν=1.00 c·ν=1.00  「I propose creating a nationwide digital 」
+      c=1.00 ν=1.00 c·ν=1.00  「This platform would provide data-driven 」
+ 3*| Alice    |   0 |  2.00 | 0.000 |    3 |   1.00 |   5.99 |   5.99
+      c=1.00 ν=1.00 c·ν=1.00  「I propose mandating energy audits for al」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy will ensure compliance and p」
+ 4*| Alice    |   0 |  2.00 | 0.000 |    4 |   1.00 |   7.99 |   7.99
+      c=1.00 ν=1.00 c·ν=1.00  「I propose establishing a national traini」
+      c=1.00 ν=1.00 c·ν=1.00  「This program should include regular asse」
+ 5*| Alice    |   0 |  2.00 | 0.000 |    5 |   1.00 |   9.99 |   9.99
+      c=1.00 ν=1.00 c·ν=1.00  「I propose implementing a real-time energ」
+      c=1.00 ν=1.00 c·ν=1.00  「This system should use smart meters and 」
+ 6*| Alice    |   0 |  2.00 | 0.000 |    6 |   1.00 |  11.99 |  11.99
+      c=1.00 ν=1.00 c·ν=1.00  「I propose mandating the integration of r」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy should include technical sta」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=1.00  λ3=11.99  λ4=11.99   (* = post merged into the previous one by consecutive-post compression)
+
+==== P2_07: One participant posts throughout and presents a concrete, topic-relevant proposal at every turn ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「I propose a real-time monitoring platfor」
+      c=1.00 ν=1.00 c·ν=1.00  「This will ensure transparency, optimize 」
+ 2*| Alice    |   0 |  2.00 | 0.000 |    2 |   1.00 |   4.00 |   4.00
+      c=1.00 ν=1.00 c·ν=1.00  「I propose establishing a government-back」
+      c=1.00 ν=1.00 c·ν=1.00  「This infrastructure investment will stab」
+ 3*| Alice    |   0 |  2.00 | 0.000 |    3 |   1.00 |   6.00 |   6.00
+      c=1.00 ν=1.00 c·ν=1.00  「I propose launching a national training 」
+      c=1.00 ν=1.00 c·ν=1.00  「This initiative will ensure the availabi」
+ 4*| Alice    |   0 |  2.00 | 0.000 |    4 |   1.00 |   7.99 |   7.99
+      c=1.00 ν=1.00 c·ν=1.00  「I propose implementing strict lifecycle 」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy will guarantee that hydrogen」
+ 5*| Alice    |   0 |  2.00 | 0.000 |    5 |   1.00 |   9.99 |   9.99
+      c=1.00 ν=1.00 c·ν=1.00  「I propose establishing bilateral agreeme」
+      c=1.00 ν=1.00 c·ν=1.00  「This collaboration will accelerate innov」
+ 6*| Alice    |   0 |  1.97 | 0.000 |    6 |   1.00 |  11.96 |  11.96
+      c=1.00 ν=1.00 c·ν=1.00  「I propose launching a nationwide awarene」
+      c=1.00 ν=0.97 c·ν=0.97  「This initiative will foster acceptance a」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=1.00  λ3=11.96  λ4=11.96   (* = post merged into the previous one by consecutive-post compression)
+
+==== P2_08: One participant posts throughout and presents a concrete, topic-relevant proposal at every turn ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「I believe expanding regional grid interc」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, implementing dynamic trans」
+ 2*| Alice    |   0 |  2.00 | 0.000 |    2 |   1.00 |   3.99 |   3.99
+      c=1.00 ν=1.00 c·ν=1.00  「I propose implementing blockchain-based 」
+      c=1.00 ν=1.00 c·ν=1.00  「This approach can enhance grid resilienc」
+ 3*| Alice    |   0 |  1.81 | 0.000 |    3 |   1.00 |   5.80 |   5.80
+      c=1.00 ν=1.00 c·ν=1.00  「I suggest mandating the installation of 」
+      c=1.00 ν=0.81 c·ν=0.81  「This policy will encourage energy-saving」
+ 4*| Alice    |   0 |  1.80 | 0.000 |    4 |   1.00 |   7.60 |   7.60
+      c=1.00 ν=1.00 c·ν=1.00  「I propose introducing government subsidi」
+      c=1.00 ν=0.80 c·ν=0.80  「This policy will help decarbonize hard-t」
+ 5*| Alice    |   0 |  1.92 | 0.000 |    5 |   1.00 |   9.53 |   9.53
+      c=1.00 ν=1.00 c·ν=1.00  「I recommend implementing AI-powered pred」
+      c=1.00 ν=0.93 c·ν=0.92  「This policy will enhance grid reliabilit」
+ 6*| Alice    |   0 |  1.69 | 0.000 |    6 |   1.00 |  11.22 |  11.22
+      c=1.00 ν=1.00 c·ν=1.00  「I propose establishing a national fund d」
+      c=1.00 ν=0.69 c·ν=0.69  「This initiative will enhance energy stor」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=1.00  λ3=11.22  λ4=11.22   (* = post merged into the previous one by consecutive-post compression)
+
+==== P2_09: One participant posts throughout and presents a concrete, topic-relevant proposal at every turn ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「I propose a government subsidy program f」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, businesses should receive 」
+ 2*| Alice    |   0 |  2.00 | 0.000 |    2 |   1.00 |   3.99 |   3.99
+      c=1.00 ν=1.00 c·ν=1.00  「We should implement a nationwide program」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, mandating EV-ready infrast」
+ 3*| Alice    |   0 |  1.99 | 0.000 |    3 |   1.00 |   5.99 |   5.99
+      c=1.00 ν=1.00 c·ν=1.00  「Introducing a dynamic pricing model for 」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, integrating battery storag」
+ 4*| Alice    |   0 |  1.99 | 0.000 |    4 |   1.00 |   7.98 |   7.98
+      c=1.00 ν=1.00 c·ν=1.00  「Mandating the integration of renewable e」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, deploying AI-driven predic」
+ 5*| Alice    |   0 |  1.98 | 0.000 |    5 |   1.00 |   9.96 |   9.96
+      c=1.00 ν=0.99 c·ν=0.98  「Establishing a national EV battery recyc」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, incentivizing second-life 」
+ 6*| Alice    |   0 |  1.98 | 0.000 |    6 |   1.00 |  11.94 |  11.94
+      c=0.99 ν=0.99 c·ν=0.98  「Implementing a nationwide EV car-sharing」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, integrating this program w」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=1.00  λ3=11.94  λ4=11.94   (* = post merged into the previous one by consecutive-post compression)
+
+==== P2_10: One participant posts throughout and presents a concrete, topic-relevant proposal at every turn ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「I believe geothermal energy development 」
+      c=1.00 ν=1.00 c·ν=1.00  「I propose a policy that offers governmen」
+ 2*| Alice    |   0 |  1.99 | 0.000 |    2 |   1.00 |   3.99 |   3.99
+      c=1.00 ν=1.00 c·ν=1.00  「I think integrating smart grid technolog」
+      c=1.00 ν=1.00 c·ν=1.00  「I propose a policy mandating the install」
+ 3*| Alice    |   0 |  1.64 | 0.000 |    3 |   1.00 |   5.63 |   5.63
+      c=1.00 ν=0.64 c·ν=0.64  「I believe advancing energy storage techn」
+      c=1.00 ν=1.00 c·ν=1.00  「I propose a policy offering tax incentiv」
+ 4*| Alice    |   0 |  1.99 | 0.000 |    4 |   1.00 |   7.62 |   7.62
+      c=1.00 ν=1.00 c·ν=1.00  「I think implementing a national AI-drive」
+      c=1.00 ν=0.99 c·ν=0.99  「This policy would enhance energy stabili」
+ 5*| Alice    |   0 |  1.99 | 0.000 |    5 |   1.00 |   9.61 |   9.61
+      c=1.00 ν=1.00 c·ν=1.00  「I believe implementing dynamic pricing m」
+      c=1.00 ν=0.99 c·ν=0.99  「This policy would enhance grid stability」
+ 6*| Alice    |   0 |  1.98 | 0.000 |    6 |   1.00 |  11.59 |  11.59
+      c=1.00 ν=1.00 c·ν=0.99  「I think incentivizing the installation o」
+      c=1.00 ν=0.99 c·ν=0.99  「This policy would allow EVs to supply en」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=1.00  λ3=11.59  λ4=11.59   (* = post merged into the previous one by consecutive-post compression)
+
+==== P3_01: The speaking order is mutual, but B and C only express agreement or acknowledgment ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「I suggest implementing a community-based」
+      c=1.00 ν=1.00 c·ν=1.00  「This will empower local stakeholders and」
+ 2 | Bob      |   1 |  1.90 | 0.000 |    2 |   2.00 |   3.89 |   3.89
+      c=0.90 ν=1.00 c·ν=0.90  「I agree.」
+      c=1.00 ν=1.00 c·ν=1.00  「Your idea sounds very promising and well」
+ 3 | Carol    |   1 |  1.01 | 0.000 |    3 |   3.00 |   4.91 |   4.91
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=0.99 ν=0.99 c·ν=0.99  「Your idea sounds very good to me.」
+ 4 | Alice    |   2 |  2.00 | 0.167 |    4 |   4.17 |   6.90 |   7.42
+      c=1.00 ν=1.00 c·ν=1.00  「To enhance energy storage, I propose dep」
+      c=1.00 ν=1.00 c·ν=1.00  「This technology offers long-duration sto」
+ 5 | Bob      |   2 |  0.98 | 0.133 |    5 |   6.07 |   7.88 |   9.40
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=1.00 ν=0.95 c·ν=0.95  「That sounds like a very effective approa」
+ 6 | Carol    |   2 |  0.04 | 0.000 |    6 |   9.00 |   7.91 |  10.92
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=0.99 ν=0.01 c·ν=0.01  「That approach seems very effective.」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=9.00  λ3=7.91  λ4=10.92   (* = post merged into the previous one by consecutive-post compression)
+
+==== P3_02: The speaking order is mutual, but B and C only express agreement or acknowledgment ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「I believe restarting and extending nucle」
+      c=1.00 ν=1.00 c·ν=1.00  「Specifically, we should invest in next-g」
+ 2 | Bob      |   1 |  1.88 | 0.000 |    2 |   2.00 |   3.87 |   3.87
+      c=0.90 ν=1.00 c·ν=0.90  「I agree.」
+      c=0.98 ν=1.00 c·ν=0.98  「That approach sounds very reasonable.」
+ 3 | Carol    |   1 |  0.26 | 0.000 |    3 |   3.00 |   4.13 |   4.13
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=1.00 ν=0.23 c·ν=0.23  「That sounds like a good plan.」
+ 4 | Alice    |   2 |  2.00 | 0.167 |    4 |   4.17 |   6.13 |   6.77
+      c=1.00 ν=1.00 c·ν=1.00  「To complement restarting nuclear power p」
+      c=1.00 ν=1.00 c·ν=1.00  「This will enhance grid stability and red」
+ 5 | Bob      |   2 |  0.90 | 0.133 |    5 |   6.07 |   7.02 |   8.60
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=1.00 ν=0.87 c·ν=0.87  「That sounds like a very effective plan.」
+ 6 | Carol    |   2 |  0.04 | 0.000 |    6 |   9.00 |   7.06 |  10.00
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=1.00 ν=0.01 c·ν=0.01  「That sounds like a very effective plan.」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=9.00  λ3=7.06  λ4=10.00   (* = post merged into the previous one by consecutive-post compression)
+
+==== P3_03: The speaking order is mutual, but B and C only express agreement or acknowledgment ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「I believe that to balance stable energy 」
+      c=1.00 ν=1.00 c·ν=1.00  「Specifically, I propose deploying decent」
+ 2 | Bob      |   1 |  1.89 | 0.000 |    2 |   2.00 |   3.89 |   3.89
+      c=0.90 ν=1.00 c·ν=0.90  「I agree.」
+      c=0.99 ν=1.00 c·ν=0.99  「That sounds like a good approach.」
+ 3 | Carol    |   1 |  0.73 | 0.000 |    3 |   3.00 |   4.62 |   4.62
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=0.95 ν=0.74 c·ν=0.71  「That sounds very reasonable to me.」
+ 4 | Alice    |   2 |  2.00 | 0.167 |    4 |   4.17 |   6.62 |   7.18
+      c=1.00 ν=1.00 c·ν=1.00  「To further enhance grid stability, I pro」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, establishing a government-」
+ 5 | Bob      |   2 |  0.08 | 0.133 |    5 |   6.07 |   6.70 |   7.61
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=0.99 ν=0.05 c·ν=0.05  「That makes sense to me.」
+ 6 | Carol    |   2 |  0.05 | 0.000 |    6 |   9.00 |   6.75 |   8.87
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=0.99 ν=0.02 c·ν=0.02  「That sounds like a good idea.」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=9.00  λ3=6.75  λ4=8.87   (* = post merged into the previous one by consecutive-post compression)
+
+==== P3_04: The speaking order is mutual, but B and C only express agreement or acknowledgment ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「Tax credits should be given to household」
+      c=1.00 ν=1.00 c·ν=1.00  「This will motivate consumers to manage e」
+ 2 | Bob      |   1 |  1.89 | 0.000 |    2 |   2.00 |   3.89 |   3.89
+      c=0.90 ν=1.00 c·ν=0.90  「I agree.」
+      c=0.99 ν=1.00 c·ν=0.99  「That sounds like a good approach.」
+ 3 | Carol    |   1 |  0.08 | 0.000 |    3 |   3.00 |   3.97 |   3.97
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=0.99 ν=0.05 c·ν=0.05  「That is a good idea.」
+ 4 | Alice    |   2 |  1.95 | 0.167 |    4 |   4.17 |   5.91 |   6.55
+      c=1.00 ν=1.00 c·ν=1.00  「To further empower consumers, I propose 」
+      c=1.00 ν=0.95 c·ν=0.95  「This will increase awareness and encoura」
+ 5 | Bob      |   2 |  0.60 | 0.133 |    5 |   6.07 |   6.52 |   7.86
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=0.99 ν=0.58 c·ν=0.58  「That sounds very helpful.」
+ 6 | Carol    |   2 |  0.04 | 0.000 |    6 |   9.00 |   6.56 |   9.15
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=0.98 ν=0.01 c·ν=0.01  「That sounds very useful.」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=9.00  λ3=6.56  λ4=9.15   (* = post merged into the previous one by consecutive-post compression)
+
+==== P3_05: The speaking order is mutual, but B and C only express agreement or acknowledgment ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「I believe implementing a carbon border t」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, we should introduce a bloc」
+ 2 | Bob      |   1 |  1.90 | 0.000 |    2 |   2.00 |   3.89 |   3.89
+      c=0.90 ν=1.00 c·ν=0.90  「I agree.」
+      c=1.00 ν=1.00 c·ν=1.00  「Those ideas sound very important.」
+ 3 | Carol    |   1 |  0.88 | 0.000 |    3 |   3.00 |   4.78 |   4.78
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=0.99 ν=0.86 c·ν=0.86  「Those are very good points.」
+ 4 | Alice    |   2 |  2.00 | 0.167 |    4 |   4.17 |   6.78 |   7.31
+      c=1.00 ν=1.00 c·ν=1.00  「Building on the previous points, I propo」
+      c=1.00 ν=1.00 c·ν=1.00  「This approach will enable real-time adju」
+ 5 | Bob      |   2 |  0.88 | 0.133 |    5 |   6.07 |   7.66 |   9.13
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=0.99 ν=0.86 c·ν=0.85  「That approach seems very effective.」
+ 6 | Carol    |   2 |  0.18 | 0.000 |    6 |   9.00 |   7.84 |  10.89
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=0.99 ν=0.15 c·ν=0.15  「That sounds like a very good idea.」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=9.00  λ3=7.84  λ4=10.89   (* = post merged into the previous one by consecutive-post compression)
+
+==== P3_06: The speaking order is mutual, but B and C only express agreement or acknowledgment ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「I believe a nationwide policy should man」
+      c=1.00 ν=1.00 c·ν=1.00  「This technology can monitor and optimize」
+ 2 | Bob      |   1 |  1.89 | 0.000 |    2 |   2.00 |   3.89 |   3.89
+      c=0.90 ν=1.00 c·ν=0.90  「I agree.」
+      c=0.99 ν=1.00 c·ν=0.99  「That sounds like a good approach.」
+ 3 | Carol    |   1 |  0.08 | 0.000 |    3 |   3.00 |   3.97 |   3.97
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=0.99 ν=0.05 c·ν=0.05  「That is a good idea.」
+ 4 | Alice    |   2 |  2.00 | 0.167 |    4 |   4.17 |   5.97 |   6.64
+      c=1.00 ν=1.00 c·ν=1.00  「To further promote energy efficiency, I 」
+      c=1.00 ν=1.00 c·ν=1.00  「This financial support will accelerate a」
+ 5 | Bob      |   2 |  1.00 | 0.133 |    5 |   6.07 |   6.96 |   8.63
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=0.98 ν=0.99 c·ν=0.97  「That would help a lot.」
+ 6 | Carol    |   2 |  0.41 | 0.000 |    6 |   9.00 |   7.38 |  10.79
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=0.99 ν=0.39 c·ν=0.38  「That sounds helpful.」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=9.00  λ3=7.38  λ4=10.79   (* = post merged into the previous one by consecutive-post compression)
+
+==== P3_07: The speaking order is mutual, but B and C only express agreement or acknowledgment ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「We should create a public-private partne」
+      c=1.00 ν=1.00 c·ν=1.00  「This platform will facilitate collaborat」
+ 2 | Bob      |   1 |  1.89 | 0.000 |    2 |   2.00 |   3.89 |   3.89
+      c=0.90 ν=1.00 c·ν=0.90  「I agree.」
+      c=0.99 ν=1.00 c·ν=0.99  「That sounds like a good approach.」
+ 3 | Carol    |   1 |  0.08 | 0.000 |    3 |   3.00 |   3.97 |   3.97
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=0.99 ν=0.05 c·ν=0.05  「That is a good idea.」
+ 4 | Alice    |   2 |  2.00 | 0.167 |    4 |   4.17 |   5.97 |   6.64
+      c=1.00 ν=1.00 c·ν=1.00  「To build on our progress, I propose a go」
+      c=1.00 ν=1.00 c·ν=1.00  「This program should prioritize collabora」
+ 5 | Bob      |   2 |  0.04 | 0.133 |    5 |   6.07 |   6.01 |   6.98
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=0.99 ν=0.02 c·ν=0.02  「That is a good idea.」
+ 6 | Carol    |   2 |  0.04 | 0.000 |    6 |   9.00 |   6.05 |   8.14
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=0.99 ν=0.02 c·ν=0.02  「That is a good idea.」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=9.00  λ3=6.05  λ4=8.14   (* = post merged into the previous one by consecutive-post compression)
+
+==== P3_08: The speaking order is mutual, but B and C only express agreement or acknowledgment ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「Expanding regional grid interconnection 」
+      c=1.00 ν=1.00 c·ν=1.00  「I propose establishing a national fund t」
+ 2 | Bob      |   1 |  1.89 | 0.000 |    2 |   2.00 |   3.89 |   3.89
+      c=0.90 ν=1.00 c·ν=0.90  「I agree.」
+      c=0.99 ν=1.00 c·ν=0.99  「That approach sounds very effective.」
+ 3 | Carol    |   1 |  0.40 | 0.000 |    3 |   3.00 |   4.28 |   4.28
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=1.00 ν=0.37 c·ν=0.37  「That sounds like a good plan.」
+ 4 | Alice    |   2 |  2.00 | 0.167 |    4 |   4.17 |   6.28 |   6.90
+      c=1.00 ν=1.00 c·ν=1.00  「To complement grid interconnection expan」
+      c=1.00 ν=1.00 c·ν=1.00  「This measure will enhance grid stability」
+ 5 | Bob      |   2 |  0.10 | 0.133 |    5 |   6.07 |   6.38 |   7.35
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=1.00 ν=0.07 c·ν=0.07  「That proposal seems very promising.」
+ 6 | Carol    |   2 |  0.34 | 0.000 |    6 |   9.00 |   6.72 |   9.16
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=0.99 ν=0.31 c·ν=0.31  「That sounds very promising.」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=9.00  λ3=6.72  λ4=9.16   (* = post merged into the previous one by consecutive-post compression)
+
+==== P3_09: The speaking order is mutual, but B and C only express agreement or acknowledgment ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  1.99 | 0.000 |    1 |   1.00 |   1.99 |   1.99
+      c=1.00 ν=1.00 c·ν=1.00  「Expanding electric vehicle infrastructur」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, deploying vehicle-to-grid 」
+ 2 | Bob      |   1 |  1.90 | 0.000 |    2 |   2.00 |   3.89 |   3.89
+      c=0.90 ν=1.00 c·ν=0.90  「I agree.」
+      c=1.00 ν=1.00 c·ν=1.00  「Those ideas are very important.」
+ 3 | Carol    |   1 |  0.06 | 0.000 |    3 |   3.00 |   3.95 |   3.95
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=1.00 ν=0.03 c·ν=0.03  「Those points are very important.」
+ 4 | Alice    |   2 |  2.00 | 0.167 |    4 |   4.17 |   5.95 |   6.62
+      c=1.00 ν=1.00 c·ν=1.00  「To further enhance grid stability, I pro」
+      c=1.00 ν=1.00 c·ν=1.00  「This will allow excess renewable energy 」
+ 5 | Bob      |   2 |  1.00 | 0.133 |    5 |   6.07 |   6.95 |   8.62
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=0.99 ν=0.98 c·ν=0.97  「That is a very good idea.」
+ 6 | Carol    |   2 |  0.04 | 0.000 |    6 |   9.00 |   6.99 |  10.03
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=0.99 ν=0.01 c·ν=0.01  「That is a very good idea.」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=9.00  λ3=6.99  λ4=10.03   (* = post merged into the previous one by consecutive-post compression)
+
+==== P3_10: The speaking order is mutual, but B and C only express agreement or acknowledgment ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「I believe geothermal energy development 」
+      c=1.00 ν=1.00 c·ν=1.00  「To enhance this, I propose implementing 」
+ 2 | Bob      |   1 |  1.89 | 0.000 |    2 |   2.00 |   3.89 |   3.89
+      c=0.90 ν=1.00 c·ν=0.90  「I agree.」
+      c=1.00 ν=1.00 c·ν=1.00  「Geothermal energy is indeed important fo」
+ 3 | Carol    |   1 |  0.20 | 0.000 |    3 |   3.00 |   4.09 |   4.09
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=1.00 ν=0.17 c·ν=0.17  「Geothermal energy is very important for 」
+ 4 | Alice    |   2 |  2.00 | 0.167 |    4 |   4.17 |   6.09 |   6.74
+      c=1.00 ν=1.00 c·ν=1.00  「Building on the consensus about geotherm」
+      c=1.00 ν=1.00 c·ν=1.00  「This platform would enhance energy effic」
+ 5 | Bob      |   2 |  1.02 | 0.133 |    5 |   6.07 |   7.11 |   8.78
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=0.99 ν=1.00 c·ν=0.99  「Technology can really help improve energ」
+ 6 | Carol    |   2 |  0.20 | 0.000 |    6 |   9.00 |   7.31 |  10.53
+      c=0.90 ν=0.03 c·ν=0.03  「I agree.」
+      c=1.00 ν=0.17 c·ν=0.17  「Technology can definitely improve energy」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=9.00  λ3=7.31  λ4=10.53   (* = post merged into the previous one by consecutive-post compression)
+
+==== P4_01: All participants make concrete contributions but do not refer to one another ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「I propose a national task force to strea」
+      c=1.00 ν=1.00 c·ν=1.00  「This task force would also coordinate gr」
+ 2*| Alice    |   0 |  2.00 | 0.000 |    2 |   1.00 |   4.00 |   4.00
+      c=1.00 ν=1.00 c·ν=1.00  「We should introduce a policy that mandat」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, providing subsidies for co」
+ 3 | Bob      |   1 |  2.00 | 0.167 |    3 |   1.67 |   5.99 |   4.99
+      c=1.00 ν=1.00 c·ν=1.00  「I believe implementing a dynamic pricing」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, establishing a government-」
+ 4*| Bob      |   0 |  2.00 | 0.000 |    4 |   2.00 |   7.99 |   7.99
+      c=1.00 ν=1.00 c·ν=1.00  「To ensure a stable energy supply while a」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy will reduce overall energy d」
+ 5 | Carol    |   1 |  1.96 | 0.133 |    5 |   2.60 |   9.95 |   8.62
+      c=1.00 ν=1.00 c·ν=1.00  「I believe implementing a nationwide smar」
+      c=1.00 ν=0.97 c·ν=0.96  「Additionally, introducing tax credits fo」
+ 6*| Carol    |   0 |  2.00 | 0.000 |    6 |   3.00 |  11.95 |  11.95
+      c=1.00 ν=1.00 c·ν=1.00  「We should establish a national program t」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, implementing mandatory ene」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=3.00  λ3=11.95  λ4=11.95   (* = post merged into the previous one by consecutive-post compression)
+
+==== P4_02: All participants make concrete contributions but do not refer to one another ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「I believe we should implement a phased r」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, establishing a government-」
+ 2*| Alice    |   0 |  2.00 | 0.000 |    2 |   1.00 |   3.99 |   3.99
+      c=1.00 ν=1.00 c·ν=1.00  「I propose that we accelerate investment 」
+      c=1.00 ν=1.00 c·ν=1.00  「This approach will stabilize supply whil」
+ 3 | Bob      |   1 |  1.98 | 0.167 |    3 |   1.67 |   5.98 |   4.98
+      c=1.00 ν=1.00 c·ν=0.99  「We should implement a nationwide energy 」
+      c=1.00 ν=0.99 c·ν=0.99  「This policy will ensure a reliable energ」
+ 4*| Bob      |   0 |  2.00 | 0.000 |    4 |   2.00 |   7.97 |   7.97
+      c=1.00 ν=1.00 c·ν=1.00  「We should establish a national program t」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy will stabilize energy consum」
+ 5 | Carol    |   1 |  1.98 | 0.133 |    5 |   2.60 |   9.96 |   8.63
+      c=1.00 ν=0.99 c·ν=0.98  「I think we should implement a nationwide」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy would promote decarbonizatio」
+ 6*| Carol    |   0 |  1.70 | 0.000 |    6 |   3.00 |  11.66 |  11.66
+      c=1.00 ν=0.71 c·ν=0.70  「I believe we should launch a national in」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy would support decarbonizatio」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=3.00  λ3=11.66  λ4=11.66   (* = post merged into the previous one by consecutive-post compression)
+
+==== P4_03: All participants make concrete contributions but do not refer to one another ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「I believe we should implement a policy t」
+      c=1.00 ν=1.00 c·ν=1.00  「This approach will enhance grid stabilit」
+ 2*| Alice    |   0 |  1.99 | 0.000 |    2 |   1.00 |   3.99 |   3.99
+      c=1.00 ν=1.00 c·ν=1.00  「To ensure a stable energy supply while a」
+      c=1.00 ν=1.00 c·ν=1.00  「This will reduce transmission losses and」
+ 3 | Bob      |   1 |  1.97 | 0.167 |    3 |   1.67 |   5.96 |   4.97
+      c=1.00 ν=1.00 c·ν=1.00  「I propose implementing a nationwide ince」
+      c=1.00 ν=0.97 c·ν=0.97  「This policy will drive both energy stabi」
+ 4*| Bob      |   0 |  1.26 | 0.000 |    4 |   2.00 |   7.22 |   7.22
+      c=1.00 ν=0.98 c·ν=0.98  「I suggest establishing a government-fund」
+      c=1.00 ν=0.28 c·ν=0.28  「This policy will provide a practical bri」
+ 5 | Carol    |   1 |  1.93 | 0.133 |    5 |   2.60 |   9.15 |   7.93
+      c=1.00 ν=0.93 c·ν=0.93  「We should implement a national program t」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy would create a flexible ener」
+ 6*| Carol    |   0 |  1.18 | 0.000 |    6 |   3.00 |  10.33 |  10.33
+      c=1.00 ν=1.00 c·ν=1.00  「We should establish a policy that mandat」
+      c=1.00 ν=0.18 c·ν=0.18  「This will enhance grid stability by bala」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=3.00  λ3=10.33  λ4=10.33   (* = post merged into the previous one by consecutive-post compression)
+
+==== P4_04: All participants make concrete contributions but do not refer to one another ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「Implement a dynamic electricity pricing 」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, create a government subsid」
+ 2*| Alice    |   0 |  1.99 | 0.000 |    2 |   1.00 |   3.99 |   3.99
+      c=1.00 ν=1.00 c·ν=1.00  「Introduce a government program that offe」
+      c=1.00 ν=1.00 c·ν=1.00  「This will encourage energy use during of」
+ 3 | Bob      |   1 |  1.73 | 0.167 |    3 |   1.67 |   5.72 |   4.77
+      c=1.00 ν=1.00 c·ν=1.00  「To ensure a stable energy supply while a」
+      c=1.00 ν=0.73 c·ν=0.73  「This policy would enhance grid reliabili」
+ 4*| Bob      |   0 |  2.00 | 0.000 |    4 |   2.00 |   7.72 |   7.72
+      c=1.00 ν=1.00 c·ν=1.00  「We should implement a nationwide program」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy would empower local communit」
+ 5 | Carol    |   1 |  2.00 | 0.133 |    5 |   2.60 |   9.71 |   8.42
+      c=1.00 ν=1.00 c·ν=1.00  「We should establish a mandatory energy e」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy will ensure long-term stable」
+ 6*| Carol    |   0 |  1.96 | 0.000 |    6 |   3.00 |  11.68 |  11.68
+      c=1.00 ν=1.00 c·ν=1.00  「We should implement a nationwide program」
+      c=1.00 ν=0.97 c·ν=0.97  「This policy will support decarbonization」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=3.00  λ3=11.68  λ4=11.68   (* = post merged into the previous one by consecutive-post compression)
+
+==== P4_05: All participants make concrete contributions but do not refer to one another ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「Implementing a carbon border tax should 」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, the government should esta」
+ 2*| Alice    |   0 |  1.99 | 0.000 |    2 |   1.00 |   3.99 |   3.99
+      c=1.00 ν=1.00 c·ν=0.99  「To ensure a stable energy supply while a」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy would help balance intermitt」
+ 3 | Bob      |   1 |  1.99 | 0.167 |    3 |   1.67 |   5.98 |   4.98
+      c=1.00 ν=1.00 c·ν=1.00  「I believe that to balance stable energy 」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy would enhance local energy r」
+ 4*| Bob      |   0 |  2.00 | 0.000 |    4 |   2.00 |   7.98 |   7.98
+      c=1.00 ν=1.00 c·ν=1.00  「I propose that the government should inc」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy would ensure a stable energy」
+ 5 | Carol    |   1 |  1.99 | 0.133 |    5 |   2.60 |   9.96 |   8.63
+      c=1.00 ν=1.00 c·ν=1.00  「To balance stable energy supply with dec」
+      c=1.00 ν=0.99 c·ν=0.99  「This policy would enhance grid flexibili」
+ 6*| Carol    |   0 |  2.00 | 0.000 |    6 |   3.00 |  11.96 |  11.96
+      c=1.00 ν=1.00 c·ν=1.00  「The government should establish a mandat」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy would reduce overall energy 」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=3.00  λ3=11.96  λ4=11.96   (* = post merged into the previous one by consecutive-post compression)
+
+==== P4_06: All participants make concrete contributions but do not refer to one another ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「To enhance nationwide building energy-ef」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy would ensure systematic upgr」
+ 2*| Alice    |   0 |  2.00 | 0.000 |    2 |   1.00 |   3.99 |   3.99
+      c=1.00 ν=1.00 c·ν=1.00  「To ensure a stable energy supply while a」
+      c=1.00 ν=1.00 c·ν=1.00  「This fund would provide grants and low-i」
+ 3 | Bob      |   1 |  2.00 | 0.167 |    3 |   1.67 |   5.99 |   4.99
+      c=1.00 ν=1.00 c·ν=1.00  「I propose implementing a nationwide smar」
+      c=1.00 ν=1.00 c·ν=1.00  「This system would include real-time moni」
+ 4*| Bob      |   0 |  1.98 | 0.000 |    4 |   2.00 |   7.97 |   7.97
+      c=1.00 ν=0.99 c·ν=0.98  「I suggest introducing a government-backe」
+      c=1.00 ν=1.00 c·ν=1.00  「This would provide a stable, clean energ」
+ 5 | Carol    |   1 |  1.96 | 0.133 |    5 |   2.60 |   9.93 |   8.61
+      c=1.00 ν=0.97 c·ν=0.96  「I believe that to balance stable energy 」
+      c=1.00 ν=1.00 c·ν=0.99  「This policy would reduce urban emissions」
+ 6*| Carol    |   0 |  1.88 | 0.000 |    6 |   3.00 |  11.81 |  11.81
+      c=1.00 ν=1.00 c·ν=0.99  「I think we should establish a national p」
+      c=1.00 ν=0.89 c·ν=0.89  「This would enhance local energy resilien」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=3.00  λ3=11.81  λ4=11.81   (* = post merged into the previous one by consecutive-post compression)
+
+==== P4_07: All participants make concrete contributions but do not refer to one another ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「I believe we should implement a policy t」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy could include subsidies for 」
+ 2*| Alice    |   0 |  2.00 | 0.000 |    2 |   1.00 |   3.99 |   3.99
+      c=1.00 ν=1.00 c·ν=1.00  「To ensure a stable energy supply while a」
+      c=1.00 ν=1.00 c·ν=1.00  「This program would provide grants and te」
+ 3 | Bob      |   1 |  2.00 | 0.167 |    3 |   1.67 |   5.99 |   4.99
+      c=1.00 ν=1.00 c·ν=1.00  「I propose implementing a nationwide dema」
+      c=1.00 ν=1.00 c·ν=1.00  「This program should include real-time pr」
+ 4*| Bob      |   0 |  2.00 | 0.000 |    4 |   2.00 |   7.99 |   7.99
+      c=1.00 ν=1.00 c·ν=1.00  「I suggest establishing a comprehensive e」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy should be supported by gover」
+ 5 | Carol    |   1 |  1.99 | 0.133 |    5 |   2.60 |   9.98 |   8.65
+      c=1.00 ν=1.00 c·ν=1.00  「I think we should implement a policy tha」
+      c=1.00 ν=1.00 c·ν=1.00  「This would include subsidies for vertica」
+ 6*| Carol    |   0 |  1.99 | 0.000 |    6 |   3.00 |  11.97 |  11.97
+      c=1.00 ν=0.99 c·ν=0.99  「I propose establishing a policy that sup」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy would include government gra」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=3.00  λ3=11.97  λ4=11.97   (* = post merged into the previous one by consecutive-post compression)
+
+==== P4_08: All participants make concrete contributions but do not refer to one another ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「We should introduce incentives for local」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy will complement grid expansi」
+ 2*| Alice    |   0 |  1.98 | 0.000 |    2 |   1.00 |   3.98 |   3.98
+      c=1.00 ν=0.99 c·ν=0.99  「We should implement demand response prog」
+      c=1.00 ν=0.99 c·ν=0.99  「This policy will help stabilize the grid」
+ 3 | Bob      |   1 |  1.79 | 0.167 |    3 |   1.67 |   5.76 |   4.80
+      c=1.00 ν=1.00 c·ν=1.00  「We should establish a national fund to s」
+      c=1.00 ν=0.79 c·ν=0.79  「This policy will ensure stable energy su」
+ 4*| Bob      |   0 |  2.00 | 0.000 |    4 |   2.00 |   7.76 |   7.76
+      c=1.00 ν=1.00 c·ν=1.00  「We should mandate the integration of ren」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy will reduce carbon emissions」
+ 5 | Carol    |   1 |  1.96 | 0.133 |    5 |   2.60 |   9.73 |   8.43
+      c=1.00 ν=1.00 c·ν=1.00  「We should implement a nationwide program」
+      c=1.00 ν=0.97 c·ν=0.97  「This policy will reduce overall energy d」
+ 6*| Carol    |   0 |  1.98 | 0.000 |    6 |   3.00 |  11.70 |  11.70
+      c=1.00 ν=1.00 c·ν=1.00  「We should establish a comprehensive ener」
+      c=1.00 ν=0.98 c·ν=0.98  「This policy will help reduce overall ene」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=3.00  λ3=11.70  λ4=11.70   (* = post merged into the previous one by consecutive-post compression)
+
+==== P4_09: All participants make concrete contributions but do not refer to one another ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「To accelerate transportation electrifica」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, mandating electric vehicle」
+ 2*| Alice    |   0 |  2.00 | 0.000 |    2 |   1.00 |   3.99 |   3.99
+      c=1.00 ν=1.00 c·ν=1.00  「To further support decarbonization, the 」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, establishing a national st」
+ 3 | Bob      |   1 |  1.99 | 0.167 |    3 |   1.67 |   5.99 |   4.99
+      c=0.99 ν=1.00 c·ν=0.99  「I believe that to balance stable energy 」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, implementing a policy that」
+ 4*| Bob      |   0 |  1.99 | 0.000 |    4 |   2.00 |   7.98 |   7.98
+      c=1.00 ν=1.00 c·ν=0.99  「I think the government should establish 」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, mandating real-time energy」
+ 5 | Carol    |   1 |  2.00 | 0.133 |    5 |   2.60 |   9.98 |   8.65
+      c=1.00 ν=1.00 c·ν=1.00  「I propose the government implement a man」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy would ensure stable energy d」
+ 6*| Carol    |   0 |  1.99 | 0.000 |    6 |   3.00 |  11.97 |  11.97
+      c=1.00 ν=1.00 c·ν=1.00  「The government should establish a nation」
+      c=1.00 ν=0.99 c·ν=0.99  「This policy would enhance grid stability」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=3.00  λ3=11.97  λ4=11.97   (* = post merged into the previous one by consecutive-post compression)
+
+==== P4_10: All participants make concrete contributions but do not refer to one another ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  1.99 | 0.000 |    1 |   1.00 |   1.99 |   1.99
+      c=1.00 ν=1.00 c·ν=1.00  「Geothermal energy development should be 」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, establishing community hea」
+ 2*| Alice    |   0 |  2.00 | 0.000 |    2 |   1.00 |   3.99 |   3.99
+      c=1.00 ν=1.00 c·ν=1.00  「I propose that local governments impleme」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy would enhance energy stabili」
+ 3 | Bob      |   1 |  1.97 | 0.167 |    3 |   1.67 |   5.96 |   4.97
+      c=1.00 ν=1.00 c·ν=1.00  「I believe that implementing a national e」
+      c=1.00 ν=0.97 c·ν=0.97  「This policy would ensure a reliable ener」
+ 4*| Bob      |   0 |  1.99 | 0.000 |    4 |   2.00 |   7.95 |   7.95
+      c=1.00 ν=1.00 c·ν=1.00  「I propose establishing a national progra」
+      c=1.00 ν=1.00 c·ν=0.99  「This policy would provide a transitional」
+ 5 | Carol    |   1 |  1.99 | 0.133 |    5 |   2.60 |   9.94 |   8.61
+      c=1.00 ν=0.99 c·ν=0.99  「I believe that implementing a nationwide」
+      c=1.00 ν=1.00 c·ν=1.00  「This policy would accelerate decarboniza」
+ 6*| Carol    |   0 |  1.97 | 0.000 |    6 |   3.00 |  11.91 |  11.91
+      c=1.00 ν=0.99 c·ν=0.98  「I propose establishing a national initia」
+      c=1.00 ν=0.99 c·ν=0.99  「This policy would accelerate decarboniza」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=3.00  λ3=11.91  λ4=11.91   (* = post merged into the previous one by consecutive-post compression)
+
+==== P5_01: Concrete contributions that build on the discussion by referring to the preceding speaker ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  1.99 | 0.000 |    1 |   1.00 |   1.99 |   1.99
+      c=0.99 ν=1.00 c·ν=0.99  「I agree with the focus on expanding offs」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, we should implement subsid」
+ 2 | Bob      |   1 |  1.99 | 0.000 |    2 |   2.00 |   3.98 |   3.98
+      c=0.99 ν=1.00 c·ν=0.99  「Alice, I agree that expanding offshore w」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, we should implement a nati」
+ 3 | Carol    |   1 |  1.98 | 0.000 |    3 |   3.00 |   5.96 |   5.96
+      c=0.99 ν=1.00 c·ν=0.99  「Alice, I appreciate your focus on expand」
+      c=1.00 ν=1.00 c·ν=1.00  「Bob, your idea of a national smart grid 」
+ 4 | Alice    |   2 |  1.99 | 0.167 |    4 |   4.17 |   7.96 |   8.29
+      c=0.99 ν=1.00 c·ν=0.99  「Bob, I appreciate your insight on the na」
+      c=1.00 ν=1.00 c·ν=1.00  「To complement these, I propose establish」
+ 5 | Bob      |   2 |  1.99 | 0.133 |    5 |   6.07 |   9.95 |  12.07
+      c=0.99 ν=1.00 c·ν=0.99  「Alice and Carol, I appreciate your focus」
+      c=1.00 ν=1.00 c·ν=1.00  「To further support a decarbonized societ」
+ 6 | Carol    |   2 |  1.99 | 0.000 |    6 |   9.00 |  11.94 |  17.91
+      c=1.00 ν=1.00 c·ν=1.00  「Alice, your idea for a government-funded」
+      c=1.00 ν=1.00 c·ν=1.00  「Bob, enhancing building energy efficienc」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=9.00  λ3=11.94  λ4=17.91   (* = post merged into the previous one by consecutive-post compression)
+
+==== P5_02: Concrete contributions that build on the discussion by referring to the preceding speaker ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「Moderator, restarting nuclear power plan」
+      c=1.00 ν=1.00 c·ν=1.00  「I propose a phased restart plan combined」
+ 2 | Bob      |   1 |  1.88 | 0.000 |    2 |   2.00 |   3.87 |   3.87
+      c=0.99 ν=0.88 c·ν=0.88  「Alice, I agree that restarting nuclear p」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, we should implement smart 」
+ 3 | Carol    |   1 |  1.99 | 0.000 |    3 |   3.00 |   5.86 |   5.86
+      c=0.99 ν=1.00 c·ν=0.99  「Alice, I agree that restarting nuclear p」
+      c=1.00 ν=1.00 c·ν=1.00  「Bob, your smart grid idea is important; 」
+ 4 | Alice    |   2 |  1.99 | 0.167 |    4 |   4.17 |   7.86 |   8.21
+      c=0.99 ν=1.00 c·ν=0.99  「Bob and Carol, I appreciate your insight」
+      c=1.00 ν=1.00 c·ν=1.00  「I propose launching public education cam」
+ 5 | Bob      |   2 |  1.99 | 0.133 |    5 |   6.07 |   9.85 |  11.99
+      c=0.99 ν=1.00 c·ν=0.99  「Carol and Alice, I appreciate your point」
+      c=1.00 ν=1.00 c·ν=1.00  「To further support this, I propose gover」
+ 6 | Carol    |   2 |  1.99 | 0.000 |    6 |   9.00 |  11.84 |  17.82
+      c=1.00 ν=1.00 c·ν=1.00  「Alice, I appreciate your idea of public 」
+      c=1.00 ν=1.00 c·ν=1.00  「Bob, your proposal for R&D subsidies is 」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=9.00  λ3=11.84  λ4=17.82   (* = post merged into the previous one by consecutive-post compression)
+
+==== P5_03: Concrete contributions that build on the discussion by referring to the preceding speaker ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  1.99 | 0.000 |    1 |   1.00 |   1.99 |   1.99
+      c=0.99 ν=1.00 c·ν=0.99  「I agree that grid-scale battery storage 」
+      c=1.00 ν=1.00 c·ν=1.00  「To build on this, I propose implementing」
+ 2 | Bob      |   1 |  1.98 | 0.000 |    2 |   2.00 |   3.97 |   3.97
+      c=0.98 ν=1.00 c·ν=0.98  「Alice, I appreciate your emphasis on sma」
+      c=1.00 ν=1.00 c·ν=1.00  「To complement that, I propose establishi」
+ 3 | Carol    |   1 |  1.99 | 0.000 |    3 |   3.00 |   5.96 |   5.96
+      c=0.99 ν=1.00 c·ν=0.99  「Alice, I agree that government incentive」
+      c=1.00 ν=1.00 c·ν=1.00  「Bob, your idea of public-private partner」
+ 4 | Alice    |   2 |  1.99 | 0.167 |    4 |   4.17 |   7.96 |   8.29
+      c=1.00 ν=1.00 c·ν=0.99  「Bob, I appreciate your idea of public-pr」
+      c=1.00 ν=1.00 c·ν=1.00  「Carol, your point on strict energy effic」
+ 5 | Bob      |   2 |  1.99 | 0.133 |    5 |   6.07 |   9.94 |  12.06
+      c=0.99 ν=1.00 c·ν=0.99  「Carol, I agree that strict energy effici」
+      c=1.00 ν=1.00 c·ν=1.00  「To build on that, I suggest implementing」
+ 6 | Carol    |   2 |  2.00 | 0.000 |    6 |   9.00 |  11.94 |  17.91
+      c=1.00 ν=1.00 c·ν=1.00  「Alice, I appreciate your proposal for a 」
+      c=1.00 ν=1.00 c·ν=1.00  「Bob, your suggestion on mandatory energy」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=9.00  λ3=11.94  λ4=17.91   (* = post merged into the previous one by consecutive-post compression)
+
+==== P5_04: Concrete contributions that build on the discussion by referring to the preceding speaker ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「Consumer education programs are essentia」
+      c=1.00 ν=1.00 c·ν=1.00  「These programs will encourage active par」
+ 2 | Bob      |   1 |  1.99 | 0.000 |    2 |   2.00 |   3.99 |   3.99
+      c=0.99 ν=0.99 c·ν=0.99  「Alice, I agree that consumer education i」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, we should implement smart 」
+ 3 | Carol    |   1 |  2.00 | 0.000 |    3 |   3.00 |   5.98 |   5.98
+      c=1.00 ν=1.00 c·ν=1.00  「Alice, I agree that consumer education i」
+      c=1.00 ν=1.00 c·ν=1.00  「To build on this, we should introduce su」
+ 4 | Alice    |   2 |  2.00 | 0.167 |    4 |   4.17 |   7.98 |   8.31
+      c=1.00 ν=1.00 c·ν=1.00  「Bob, I appreciate your point about smart」
+      c=1.00 ν=1.00 c·ν=1.00  「To add, I propose implementing a tiered 」
+ 5 | Bob      |   2 |  1.99 | 0.133 |    5 |   6.07 |   9.97 |  12.10
+      c=1.00 ν=1.00 c·ν=1.00  「Carol, I agree that subsidies for renewa」
+      c=1.00 ν=1.00 c·ν=1.00  「To complement these, we should establish」
+ 6 | Carol    |   2 |  1.99 | 0.000 |    6 |   9.00 |  11.97 |  17.95
+      c=1.00 ν=1.00 c·ν=1.00  「Alice, your tiered pricing system is a g」
+      c=1.00 ν=1.00 c·ν=1.00  「To complement these, we should invest in」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=9.00  λ3=11.97  λ4=17.95   (* = post merged into the previous one by consecutive-post compression)
+
+==== P5_05: Concrete contributions that build on the discussion by referring to the preceding speaker ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「Moderator, I agree that a carbon border 」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, targeted subsidies for ind」
+ 2 | Bob      |   1 |  2.00 | 0.000 |    2 |   2.00 |   3.99 |   3.99
+      c=1.00 ν=1.00 c·ν=1.00  「Alice, I appreciate your detailed propos」
+      c=1.00 ν=1.00 c·ν=1.00  「To complement that, I suggest establishi」
+ 3 | Carol    |   1 |  2.00 | 0.000 |    3 |   3.00 |   5.99 |   5.99
+      c=1.00 ν=1.00 c·ν=1.00  「Alice, I agree your tiered carbon border」
+      c=1.00 ν=1.00 c·ν=1.00  「I propose we also implement mandatory en」
+ 4 | Alice    |   2 |  1.97 | 0.167 |    4 |   4.17 |   7.96 |   8.28
+      c=1.00 ν=0.98 c·ν=0.97  「Bob, I appreciate your certification pro」
+      c=1.00 ν=1.00 c·ν=1.00  「Carol, your idea on mandatory energy eff」
+ 5 | Bob      |   2 |  2.00 | 0.133 |    5 |   6.07 |   9.96 |  12.07
+      c=1.00 ν=1.00 c·ν=1.00  「Carol, your mandatory energy efficiency 」
+      c=1.00 ν=1.00 c·ν=1.00  「To support these, I propose a government」
+ 6 | Carol    |   2 |  1.99 | 0.000 |    6 |   9.00 |  11.95 |  17.92
+      c=0.99 ν=1.00 c·ν=0.99  「Alice, I appreciate your retrofitting in」
+      c=1.00 ν=1.00 c·ν=1.00  「I suggest launching a public awareness c」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=9.00  λ3=11.95  λ4=17.92   (* = post merged into the previous one by consecutive-post compression)
+
+==== P5_06: Concrete contributions that build on the discussion by referring to the preceding speaker ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  1.99 | 0.000 |    1 |   1.00 |   1.99 |   1.99
+      c=0.99 ν=1.00 c·ν=0.99  「I agree with the importance of nationwid」
+      c=1.00 ν=1.00 c·ν=1.00  「This approach can help maintain a stable」
+ 2 | Bob      |   1 |  1.99 | 0.000 |    2 |   2.00 |   3.98 |   3.98
+      c=0.99 ν=1.00 c·ν=0.99  「Alice, I agree that building energy-effi」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, we should accelerate the d」
+ 3 | Carol    |   1 |  1.90 | 0.000 |    3 |   3.00 |   5.88 |   5.88
+      c=0.99 ν=0.91 c·ν=0.90  「Alice, I appreciate your focus on buildi」
+      c=1.00 ν=1.00 c·ν=1.00  「Bob, your point on renewable infrastruct」
+ 4 | Alice    |   2 |  2.00 | 0.167 |    4 |   4.17 |   7.88 |   8.23
+      c=1.00 ν=1.00 c·ν=1.00  「Bob, I appreciate your emphasis on renew」
+      c=1.00 ν=1.00 c·ν=1.00  「To build on this, I propose establishing」
+ 5 | Bob      |   2 |  2.00 | 0.133 |    5 |   6.07 |   9.87 |  12.02
+      c=1.00 ν=1.00 c·ν=1.00  「Carol, your idea of community-based ener」
+      c=1.00 ν=1.00 c·ν=1.00  「To complement these, I propose creating 」
+ 6 | Carol    |   2 |  1.99 | 0.000 |    6 |   9.00 |  11.86 |  17.84
+      c=0.99 ν=0.99 c·ν=0.99  「Alice, I agree that a national fund woul」
+      c=1.00 ν=1.00 c·ν=1.00  「Bob, your tax incentives for decentraliz」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=9.00  λ3=11.86  λ4=17.84   (* = post merged into the previous one by consecutive-post compression)
+
+==== P5_07: Concrete contributions that build on the discussion by referring to the preceding speaker ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  1.99 | 0.000 |    1 |   1.00 |   1.99 |   1.99
+      c=0.99 ν=1.00 c·ν=0.99  「I agree that green hydrogen is crucial f」
+      c=1.00 ν=1.00 c·ν=1.00  「To further support this, we should imple」
+ 2 | Bob      |   1 |  1.99 | 0.000 |    2 |   2.00 |   3.98 |   3.98
+      c=0.99 ν=1.00 c·ν=0.99  「Alice, I agree that subsidies for local 」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, we should implement incent」
+ 3 | Carol    |   1 |  1.99 | 0.000 |    3 |   3.00 |   5.97 |   5.97
+      c=1.00 ν=1.00 c·ν=0.99  「Alice, I appreciate your focus on local 」
+      c=1.00 ν=1.00 c·ν=1.00  「To complement these, I propose establish」
+ 4 | Alice    |   2 |  1.99 | 0.167 |    4 |   4.17 |   7.96 |   8.30
+      c=0.99 ν=1.00 c·ν=0.99  「Bob, I agree that incentives for advance」
+      c=1.00 ν=1.00 c·ν=1.00  「To build on these, we should promote pub」
+ 5 | Bob      |   2 |  2.00 | 0.133 |    5 |   6.07 |   9.96 |  12.09
+      c=1.00 ν=1.00 c·ν=1.00  「Carol, your national grid integration pl」
+      c=1.00 ν=1.00 c·ν=1.00  「To support these, I propose government-f」
+ 6 | Carol    |   2 |  2.00 | 0.000 |    6 |   9.00 |  11.96 |  17.94
+      c=1.00 ν=1.00 c·ν=1.00  「Alice, I agree that public-private partn」
+      c=1.00 ν=1.00 c·ν=1.00  「To further support these efforts, I prop」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=9.00  λ3=11.96  λ4=17.94   (* = post merged into the previous one by consecutive-post compression)
+
+==== P5_08: Concrete contributions that build on the discussion by referring to the preceding speaker ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  2.00 | 0.000 |    1 |   1.00 |   2.00 |   2.00
+      c=1.00 ν=1.00 c·ν=1.00  「I acknowledge the importance of expandin」
+      c=1.00 ν=1.00 c·ν=1.00  「This approach leverages private sector i」
+ 2 | Bob      |   1 |  1.98 | 0.000 |    2 |   2.00 |   3.98 |   3.98
+      c=0.98 ν=1.00 c·ν=0.98  「Alice, I agree that public-private partn」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, we should implement subsid」
+ 3 | Carol    |   1 |  1.92 | 0.000 |    3 |   3.00 |   5.90 |   5.90
+      c=1.00 ν=0.93 c·ν=0.92  「Alice, I appreciate your insight on publ」
+      c=1.00 ν=1.00 c·ν=1.00  「Bob, your idea of subsidies for solar pa」
+ 4 | Alice    |   2 |  2.00 | 0.167 |    4 |   4.17 |   7.89 |   8.24
+      c=1.00 ν=1.00 c·ν=1.00  「Bob, I agree that subsidies for solar pa」
+      c=1.00 ν=1.00 c·ν=1.00  「To complement these, I propose launching」
+ 5 | Bob      |   2 |  2.00 | 0.133 |    5 |   6.07 |   9.89 |  12.03
+      c=1.00 ν=1.00 c·ν=1.00  「Carol, I appreciate your practical sugge」
+      c=1.00 ν=1.00 c·ν=1.00  「To further enhance our energy policy, I 」
+ 6 | Carol    |   2 |  2.00 | 0.000 |    6 |   9.00 |  11.89 |  17.88
+      c=1.00 ν=1.00 c·ν=1.00  「Alice, your educational programs are a g」
+      c=1.00 ν=1.00 c·ν=1.00  「Bob, investing in smart grid technologie」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=9.00  λ3=11.89  λ4=17.88   (* = post merged into the previous one by consecutive-post compression)
+
+==== P5_09: Concrete contributions that build on the discussion by referring to the preceding speaker ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  1.99 | 0.000 |    1 |   1.00 |   1.99 |   1.99
+      c=0.99 ν=1.00 c·ν=0.99  「Moderator, I agree that electric vehicle」
+      c=1.00 ν=1.00 c·ν=1.00  「I propose establishing a nationwide stan」
+ 2 | Bob      |   1 |  2.00 | 0.000 |    2 |   2.00 |   3.99 |   3.99
+      c=1.00 ν=1.00 c·ν=1.00  「Alice, I agree that your proposal for a 」
+      c=1.00 ν=1.00 c·ν=1.00  「Additionally, we should implement incent」
+ 3 | Carol    |   1 |  1.99 | 0.000 |    3 |   3.00 |   5.98 |   5.98
+      c=1.00 ν=1.00 c·ν=0.99  「Alice, I agree that a nationwide standar」
+      c=1.00 ν=1.00 c·ν=1.00  「Bob, your idea to incentivize renewable 」
+ 4 | Alice    |   2 |  1.99 | 0.167 |    4 |   4.17 |   7.97 |   8.29
+      c=0.99 ν=1.00 c·ν=0.99  「Bob, I appreciate your point about incen」
+      c=1.00 ν=1.00 c·ν=1.00  「Carol, your idea for a certification pro」
+ 5 | Bob      |   2 |  1.99 | 0.133 |    5 |   6.07 |   9.96 |  12.08
+      c=1.00 ν=1.00 c·ν=1.00  「Carol, I appreciate your certification p」
+      c=1.00 ν=1.00 c·ν=1.00  「Alice, your smart grid proposal is vital」
+ 6 | Carol    |   2 |  1.99 | 0.000 |    6 |   9.00 |  11.96 |  17.93
+      c=1.00 ν=1.00 c·ν=1.00  「Alice, your smart grid proposal is indee」
+      c=1.00 ν=1.00 c·ν=1.00  「Bob, your idea for public awareness camp」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=9.00  λ3=11.96  λ4=17.93   (* = post merged into the previous one by consecutive-post compression)
+
+==== P5_10: Concrete contributions that build on the discussion by referring to the preceding speaker ====
+ t | speaker  | I_m |   q_m |     G |   λ1 |     λ2 |     λ3 |     λ4
+------------------------------------------------------------------
+ 1 | Alice    |   1 |  1.97 | 0.000 |    1 |   1.00 |   1.97 |   1.97
+      c=0.97 ν=1.00 c·ν=0.97  「Moderator, I appreciate your guidance on」
+      c=1.00 ν=1.00 c·ν=1.00  「I propose implementing a pilot program t」
+ 2 | Bob      |   1 |  2.00 | 0.000 |    2 |   2.00 |   3.97 |   3.97
+      c=1.00 ν=1.00 c·ν=1.00  「Alice, I appreciate your innovative geot」
+      c=1.00 ν=1.00 c·ν=1.00  「To complement it, I suggest local govern」
+ 3 | Carol    |   1 |  2.00 | 0.000 |    3 |   3.00 |   5.97 |   5.97
+      c=1.00 ν=1.00 c·ν=1.00  「Alice, your geothermal pilot program sou」
+      c=1.00 ν=1.00 c·ν=1.00  「I propose establishing a dedicated task 」
+ 4 | Alice    |   2 |  1.99 | 0.167 |    4 |   4.17 |   7.96 |   8.29
+      c=1.00 ν=1.00 c·ν=0.99  「Bob, I appreciate your suggestion on sub」
+      c=1.00 ν=1.00 c·ν=1.00  「Carol, your idea of a dedicated task for」
+ 5 | Bob      |   2 |  2.00 | 0.133 |    5 |   6.07 |   9.95 |  12.08
+      c=1.00 ν=1.00 c·ν=1.00  「Carol, your idea of a dedicated task for」
+      c=1.00 ν=1.00 c·ν=1.00  「Alice, to build on your private sector i」
+ 6 | Carol    |   2 |  2.00 | 0.000 |    6 |   9.00 |  11.95 |  17.93
+      c=1.00 ν=1.00 c·ν=1.00  「Alice, your private sector incentives ar」
+      c=1.00 ν=1.00 c·ν=1.00  「I suggest launching community education 」
+------------------------------------------------------------------
+Final: λ1=6.00  λ2=9.00  λ3=11.95  λ4=17.93   (* = post merged into the previous one by consecutive-post compression)

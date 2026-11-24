@@ -1,0 +1,10 @@
+==== P3_04: The speaking order is mutual, but B and C only express agreement or acknowledgment ====
+topic: How should we design an energy policy that balances stable energy supply with the realization of a decarbonized society?
+opening_hint: demand-side management and dynamic electricity pricing
+
+[m=1] Alice: Tax credits should be given to households that reduce peak electricity use through AI smart meters and blockchain-enabled dynamic pricing. This will motivate consumers to manage energy consumption, supporting grid stability and decarbonization.
+[m=2] Bob: I agree. That sounds like a good approach.
+[m=3] Carol: I agree. That is a good idea.
+[m=4] Alice: To further empower consumers, I propose deploying real-time energy consumption monitoring systems with intuitive dashboards accessible via smartphones. This will increase awareness and encourage proactive energy management, complementing dynamic pricing and blockchain transparency.
+[m=5] Bob: I agree. That sounds very helpful.
+[m=6] Carol: I agree. That sounds very useful.

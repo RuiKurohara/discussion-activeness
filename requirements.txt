@@ -1,0 +1,11 @@
+# Scoring (activity_models.py, evaluate_patterns.py) and figures.
+# Versions used for the verification run of this repository (Python 3.12.10).
+torch==2.11.0
+transformers==5.19.0
+sentencepiece==0.2.2
+numpy==2.5.3
+matplotlib==3.11.2
+
+# Dataset generation (generate_pattern_dataset.py) additionally requires
+# TinyTroupe 0.5.2, installed from GitHub (see README.md):
+#   pip install git+https://github.com/microsoft/TinyTroupe.git@43d951eea015aea09972dc95537c9bbbc74ba207

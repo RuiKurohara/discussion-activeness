@@ -1,0 +1,10 @@
+==== P3_06: The speaking order is mutual, but B and C only express agreement or acknowledgment ====
+topic: How should we design an energy policy that balances stable energy supply with the realization of a decarbonized society?
+opening_hint: nationwide building energy-efficiency retrofits
+
+[m=1] Alice: I believe a nationwide policy should mandate the installation of IoT-based smart energy management systems in all commercial and residential buildings. This technology can monitor and optimize energy consumption in real-time, significantly improving efficiency and supporting a stable energy supply while advancing decarbonization efforts.
+[m=2] Bob: I agree. That sounds like a good approach.
+[m=3] Carol: I agree. That is a good idea.
+[m=4] Alice: To further promote energy efficiency, I propose the government introduce subsidies and tax incentives for building owners who install IoT-based smart energy management systems. This financial support will accelerate adoption and ensure a more stable and decarbonized energy supply nationwide.
+[m=5] Bob: I agree. That would help a lot.
+[m=6] Carol: I agree. That sounds helpful.

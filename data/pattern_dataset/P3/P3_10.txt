@@ -1,0 +1,10 @@
+==== P3_10: The speaking order is mutual, but B and C only express agreement or acknowledgment ====
+topic: How should we design an energy policy that balances stable energy supply with the realization of a decarbonized society?
+opening_hint: geothermal energy development and community heating networks
+
+[m=1] Alice: I believe geothermal energy development is crucial for a stable and decarbonized energy future because it provides consistent base-load power. To enhance this, I propose implementing government subsidies specifically for advanced Enhanced Geothermal Systems (EGS) technology and establishing mandatory integration of community heating networks in new urban developments to maximize heat reuse and efficiency.
+[m=2] Bob: I agree. Geothermal energy is indeed important for a stable and decarbonized future.
+[m=3] Carol: I agree. Geothermal energy is very important for a stable and decarbonized future.
+[m=4] Alice: Building on the consensus about geothermal energy, I propose establishing a government-backed digital platform that uses IoT sensors and AI analytics to monitor and optimize community heating networks. This platform would enhance energy efficiency, reduce waste, and support real-time management of heat distribution in urban areas.
+[m=5] Bob: I agree. Technology can really help improve energy efficiency in heating networks.
+[m=6] Carol: I agree. Technology can definitely improve energy efficiency in heating networks.
